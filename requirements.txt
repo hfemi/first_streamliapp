@@ -1,8 +1,2 @@
-scipy
-fuzzywuzzy
-click
-pandas
-streamlit
-mediapipe
-numpy
-Pillow
+# requirements.txt
+snowflake-connector-python
